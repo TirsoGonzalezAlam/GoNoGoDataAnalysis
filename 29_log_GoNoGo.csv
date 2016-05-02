@@ -1,0 +1,630 @@
+29_20_female
+Sequence: Beta - B C A A C B,
+Part_ID, Block, Condition, GO or NO, Item ID, Box Type, Correct Answer, Key, RT
+29,Block B,image hard,GO,bow,hard,True,space,0.582351
+29,Block B,image hard,NO GO,zebra,square,True,no response,nan
+29,Block B,image hard,GO,callbell,square,True,space,0.426507
+29,Block B,image hard,GO,sink,square,True,space,0.341535
+29,Block B,image hard,GO,calendar,hard,True,space,0.469506
+29,Block B,image hard,GO,fanheater,hard,True,space,0.423918
+29,Block B,image hard,GO,gardenutilityvehicle,hard,True,space,0.460209
+29,Block B,image hard,GO,scooter,hard,True,space,0.432346
+29,Block B,image hard,NO GO,honeybee,square,True,no response,nan
+29,Block B,image hard,GO,skihelmet01,hard,True,space,0.338447
+29,Block B,image hard,GO,mug05,square,True,space,0.340924
+29,Block B,image hard,GO,sword01,hard,True,space,0.377560
+29,Block B,image hard,GO,blender,hard,True,space,0.405129
+29,Block B,image hard,NO GO,monarchbutterfly,square,True,no response,nan
+29,Block B,image hard,GO,helicopter,square,True,space,0.525454
+29,Block B,image hard,GO,xylophone,square,True,space,0.422178
+29,Block B,image hard,NO GO,vulture,square,True,no response,nan
+29,Block B,image hard,GO,keyhole,square,True,space,0.327089
+29,Block B,image hard,GO,machete,hard,True,space,0.336981
+29,Block B,image hard,GO,crown,hard,True,space,0.415095
+29,Block B,image hard,GO,maraca01,hard,True,space,0.350887
+29,Block B,image hard,GO,floortile02,hard,True,space,0.392649
+29,Block B,image hard,NO GO,squirrel,hard,True,no response,nan
+29,Block B,image hard,GO,grandpiano,hard,True,space,0.337338
+29,Block B,image hard,GO,windmill,square,True,space,0.430249
+29,Block B,image hard,GO,bookshelf,square,True,space,0.401475
+29,Block B,image hard,NO GO,tarantula,hard,False,space,0.322330
+29,Block B,image hard,GO,harmonica,square,True,space,0.330350
+29,Block B,image hard,GO,bullet,hard,True,space,0.371858
+29,Block B,image hard,GO,chimney,hard,True,space,0.396587
+29,Block B,image hard,NO GO,moose,hard,True,no response,nan
+29,Block B,image hard,GO,boxtruck,square,True,space,0.382434
+29,Block B,image hard,GO,chandelier,hard,True,space,0.477253
+29,Block B,image hard,GO,microwave,hard,True,space,0.451002
+29,Block B,image hard,GO,recorder04,hard,True,space,0.489396
+29,Block B,image hard,NO GO,cat,hard,True,no response,nan
+29,Block B,image hard,GO,tower,hard,True,space,0.302059
+29,Block B,image hard,NO GO,ostrich,hard,False,space,0.328549
+29,Block B,image hard,GO,cookingpot,hard,True,space,0.353407
+29,Block B,image hard,GO,handcuffs,hard,True,space,0.344580
+29,Block B,image hard,NO GO,greatwhiteshark,square,False,space,0.413599
+29,Block B,image hard,GO,crosscountryski,hard,True,space,0.400916
+29,Block B,image hard,GO,doubledoors,square,True,space,0.452744
+29,Block B,image hard,GO,toolbox02,square,True,space,0.431474
+29,Block B,image hard,GO,recyclingbin,square,True,space,0.427792
+29,Block B,image hard,GO,stairs,square,True,space,0.475702
+29,Block B,image hard,GO,funnel,hard,True,space,0.490497
+29,Block B,image hard,NO GO,ladybug03,square,True,no response,nan
+29,Block B,image hard,GO,key07,square,True,space,0.460599
+29,Block B,image hard,GO,marble,hard,True,space,0.454185
+29,Block B,image hard,GO,boxtrailer,square,True,space,0.427511
+29,Block B,image hard,GO,telescope,hard,True,space,0.425015
+29,Block B,image hard,GO,mattress,hard,True,space,0.494739
+29,Block B,image easy,GO,zipper,square,True,space,0.647928
+29,Block B,image easy,GO,lamppost01,easy,True,space,0.441539
+29,Block B,image easy,GO,desktopcomputer,easy,True,space,0.401029
+29,Block B,image easy,GO,tent,easy,True,space,0.403236
+29,Block B,image easy,GO,stroller,easy,True,space,0.488207
+29,Block B,image easy,NO GO,armadillo,easy,True,no response,nan
+29,Block B,image easy,GO,parachute,square,True,space,0.437189
+29,Block B,image easy,GO,cessna,square,True,space,0.425097
+29,Block B,image easy,GO,athleticsock,square,True,space,0.441076
+29,Block B,image easy,GO,beachumbrella01,square,True,space,0.431459
+29,Block B,image easy,GO,vacuumcleaner01,square,True,space,0.446124
+29,Block B,image easy,NO GO,skunk,easy,True,no response,nan
+29,Block B,image easy,GO,shelf,easy,True,space,0.337218
+29,Block B,image easy,GO,pilgrimhat,square,True,space,0.484398
+29,Block B,image easy,GO,turnstile,square,True,space,0.391908
+29,Block B,image easy,GO,telescope,square,True,space,0.392945
+29,Block B,image easy,NO GO,pigeon,square,True,no response,nan
+29,Block B,image easy,GO,treadmill,square,True,space,0.441267
+29,Block B,image easy,NO GO,raccoon,easy,False,space,0.340495
+29,Block B,image easy,GO,soccerball,square,True,space,0.370811
+29,Block B,image easy,GO,barbecue03,square,True,space,0.424786
+29,Block B,image easy,GO,car,square,True,space,0.697435
+29,Block B,image easy,GO,lantern03,easy,True,space,0.425993
+29,Block B,image easy,GO,wallclock,easy,True,space,0.374708
+29,Block B,image easy,GO,saxophone,easy,True,space,0.727811
+29,Block B,image easy,NO GO,cow,square,True,no response,nan
+29,Block B,image easy,GO,bus,easy,True,space,0.343452
+29,Block B,image easy,GO,arrow02,easy,True,space,0.538735
+29,Block B,image easy,GO,woodencrate01,easy,True,space,0.377030
+29,Block B,image easy,NO GO,kangaroo,square,True,no response,nan
+29,Block B,image easy,GO,ipad02,square,True,space,0.408657
+29,Block B,image easy,GO,spear02,easy,False,no response,nan
+29,Block B,image easy,NO GO,dromedary,easy,True,no response,nan
+29,Block B,image easy,GO,barrel01,easy,True,space,0.354724
+29,Block B,image easy,GO,ipod,easy,True,space,0.409515
+29,Block B,image easy,GO,statue,easy,True,space,0.592370
+29,Block B,image easy,NO GO,africanelephant,easy,False,space,0.389883
+29,Block B,image easy,GO,basketball01,easy,True,space,0.359670
+29,Block B,image easy,GO,marble,easy,True,space,0.417904
+29,Block B,image easy,GO,swimsuit,square,True,space,0.425490
+29,Block B,image easy,GO,trampoline,easy,True,space,0.408856
+29,Block B,image easy,GO,barn,easy,True,space,0.419680
+29,Block B,image easy,NO GO,rhinoceros02,easy,False,space,0.358275
+29,Block B,image easy,GO,chainsaw,square,True,space,0.462693
+29,Block B,image easy,GO,rainboot,easy,True,space,0.508180
+29,Block B,image easy,GO,banjo,square,True,space,0.423130
+29,Block B,image easy,GO,wheelchair,square,True,space,0.409856
+29,Block B,image easy,GO,securitycamera,easy,True,space,0.479068
+29,Block B,image easy,GO,kalashnikov,easy,True,space,0.498433
+29,Block B,image easy,GO,tambourine03,square,True,space,0.450018
+29,Block B,image easy,GO,record,square,True,space,0.390779
+29,Block B,image easy,GO,balcony02,square,True,space,0.446423
+29,Block B,image easy,GO,lighthouse,easy,True,space,0.528089
+29,Block C,scrambled words hard,GO,Slide184S0,square,True,space,0.647988
+29,Block C,scrambled words hard,GO,Slide172S0,square,True,space,0.395160
+29,Block C,scrambled words hard,GO,Slide221S0,square,True,space,0.324970
+29,Block C,scrambled words hard,GO,Slide45S0,square,True,space,0.518054
+29,Block C,scrambled words hard,GO,Slide203S0,square,True,space,0.348233
+29,Block C,scrambled words hard,GO,Slide147S0,square,True,space,0.364381
+29,Block C,scrambled words hard,NO GO,Slide27S0,hard,True,no response,nan
+29,Block C,scrambled words hard,GO,Slide129S0,square,True,space,0.326598
+29,Block C,scrambled words hard,NO GO,Slide73S0,hard,True,no response,nan
+29,Block C,scrambled words hard,GO,Slide180S0,square,True,space,0.392264
+29,Block C,scrambled words hard,GO,Slide27S0,square,True,space,0.441417
+29,Block C,scrambled words hard,NO GO,Slide132S0,hard,True,no response,nan
+29,Block C,scrambled words hard,GO,Slide218S0,square,True,space,0.288604
+29,Block C,scrambled words hard,GO,Slide26S0,square,True,space,0.502310
+29,Block C,scrambled words hard,GO,Slide38S0,square,True,space,0.323325
+29,Block C,scrambled words hard,NO GO,Slide109S0,hard,True,no response,nan
+29,Block C,scrambled words hard,GO,Slide115S0,square,True,space,0.323773
+29,Block C,scrambled words hard,GO,Slide100S0,square,True,space,0.374980
+29,Block C,scrambled words hard,GO,Slide149S0,square,True,space,0.327291
+29,Block C,scrambled words hard,GO,Slide217S0,square,True,space,0.387059
+29,Block C,scrambled words hard,NO GO,Slide175S0,hard,True,no response,nan
+29,Block C,scrambled words hard,GO,Slide5S0,square,True,space,0.311794
+29,Block C,scrambled words hard,GO,Slide173S0,square,True,space,0.465382
+29,Block C,scrambled words hard,GO,Slide41S0,square,True,space,0.335273
+29,Block C,scrambled words hard,GO,Slide53S0,square,True,space,0.365793
+29,Block C,scrambled words hard,GO,Slide126S0,square,True,space,0.376727
+29,Block C,scrambled words hard,NO GO,Slide145S0,hard,True,no response,nan
+29,Block C,scrambled words hard,GO,Slide108S0,square,True,space,0.311230
+29,Block C,scrambled words hard,NO GO,Slide106S0,hard,True,no response,nan
+29,Block C,scrambled words hard,GO,Slide141S0,square,True,space,0.307788
+29,Block C,scrambled words hard,GO,Slide76S0,square,True,space,0.503249
+29,Block C,scrambled words hard,GO,Slide37S0,square,True,space,0.444950
+29,Block C,scrambled words hard,NO GO,Slide68S0,hard,True,no response,nan
+29,Block C,scrambled words hard,GO,Slide84S0,square,True,space,0.277304
+29,Block C,scrambled words hard,GO,Slide95S0,square,True,space,0.394344
+29,Block C,scrambled words hard,GO,Slide36S0,square,True,space,0.407198
+29,Block C,scrambled words hard,GO,Slide51S0,square,True,space,0.367795
+29,Block C,scrambled words hard,GO,Slide221S0,square,True,space,0.367697
+29,Block C,scrambled words hard,NO GO,Slide47S0,hard,True,no response,nan
+29,Block C,scrambled words hard,GO,Slide87S0,square,True,space,0.337347
+29,Block C,scrambled words hard,GO,Slide163S0,square,True,space,0.302544
+29,Block C,scrambled words hard,GO,Slide202S0,square,True,space,0.390263
+29,Block C,scrambled words hard,GO,Slide211S0,square,True,space,0.331290
+29,Block C,scrambled words hard,NO GO,Slide106S0,hard,True,no response,nan
+29,Block C,scrambled words hard,GO,Slide99S0,square,True,space,0.341244
+29,Block C,scrambled words hard,GO,Slide8S0,square,True,space,0.360487
+29,Block C,scrambled words hard,GO,Slide105S0,square,True,space,0.290985
+29,Block C,scrambled words hard,GO,Slide69S0,square,True,space,0.338441
+29,Block C,scrambled words hard,GO,Slide115S0,square,True,space,0.375066
+29,Block C,scrambled words hard,GO,Slide158S0,square,True,space,0.405255
+29,Block C,scrambled words hard,GO,Slide180S0,square,True,space,0.362850
+29,Block C,scrambled words hard,GO,Slide134S0,square,True,space,0.374923
+29,Block C,scrambled pics easy,GO,tromboneS0,square,True,space,0.415158
+29,Block C,scrambled pics easy,GO,vultureS0,square,True,space,0.403862
+29,Block C,scrambled pics easy,NO GO,contactlensS0,easy,True,no response,nan
+29,Block C,scrambled pics easy,GO,roosterS0,square,True,space,0.321435
+29,Block C,scrambled pics easy,GO,athleticsockS0,square,True,space,0.378988
+29,Block C,scrambled pics easy,GO,saxophoneS0,square,True,space,0.357790
+29,Block C,scrambled pics easy,GO,giraffeS0,square,True,space,0.343620
+29,Block C,scrambled pics easy,GO,beachumbrella01S0,square,True,space,0.338173
+29,Block C,scrambled pics easy,GO,safeS0,square,True,space,0.353674
+29,Block C,scrambled pics easy,NO GO,servingspoon01S0,easy,True,no response,nan
+29,Block C,scrambled pics easy,GO,sinkS0,square,True,space,0.388084
+29,Block C,scrambled pics easy,NO GO,gongS0,easy,False,space,0.343113
+29,Block C,scrambled pics easy,GO,barbecue03S0,square,True,space,0.527147
+29,Block C,scrambled pics easy,GO,bridgeS0,square,True,space,0.373010
+29,Block C,scrambled pics easy,GO,ovenS0,square,True,space,0.419903
+29,Block C,scrambled pics easy,GO,microphone01S0,square,True,space,0.345584
+29,Block C,scrambled pics easy,GO,chandelierS0,square,True,space,0.366994
+29,Block C,scrambled pics easy,GO,shield02S0,square,True,space,0.393330
+29,Block C,scrambled pics easy,NO GO,accordion01S0,easy,True,no response,nan
+29,Block C,scrambled pics easy,GO,chimneyS0,square,True,space,0.338652
+29,Block C,scrambled pics easy,GO,bowS0,square,True,space,0.315627
+29,Block C,scrambled pics easy,GO,pigeonS0,square,True,space,0.337741
+29,Block C,scrambled pics easy,GO,calendarS0,square,True,space,0.333135
+29,Block C,scrambled pics easy,GO,snowmanS0,square,True,space,0.370155
+29,Block C,scrambled pics easy,NO GO,ladderS0,easy,True,no response,nan
+29,Block C,scrambled pics easy,GO,jeans01S0,square,True,space,0.355208
+29,Block C,scrambled pics easy,GO,pillarS0,square,True,space,0.440185
+29,Block C,scrambled pics easy,GO,pigS0,square,True,space,0.375179
+29,Block C,scrambled pics easy,NO GO,entrancegateS0,easy,True,no response,nan
+29,Block C,scrambled pics easy,GO,ipodS0,square,True,space,0.357707
+29,Block C,scrambled pics easy,GO,barrel01S0,square,True,space,0.429316
+29,Block C,scrambled pics easy,GO,volleyballS0,square,True,space,0.360217
+29,Block C,scrambled pics easy,GO,alligatorS0,square,True,space,0.354621
+29,Block C,scrambled pics easy,NO GO,sword01S0,easy,False,space,0.358306
+29,Block C,scrambled pics easy,GO,recyclingbinS0,square,True,space,0.358673
+29,Block C,scrambled pics easy,GO,ladderS0,square,True,space,0.331885
+29,Block C,scrambled pics easy,NO GO,squidS0,easy,True,no response,nan
+29,Block C,scrambled pics easy,GO,ostrichS0,square,True,space,0.333878
+29,Block C,scrambled pics easy,GO,recorder04S0,square,True,space,0.315986
+29,Block C,scrambled pics easy,GO,barbecue03S0,square,True,space,0.426784
+29,Block C,scrambled pics easy,GO,blenderS0,square,True,space,0.357400
+29,Block C,scrambled pics easy,GO,woodenfenceS0,square,True,space,0.321561
+29,Block C,scrambled pics easy,NO GO,dalmatianS0,easy,True,no response,nan
+29,Block C,scrambled pics easy,GO,toolbox02S0,square,True,space,0.404622
+29,Block C,scrambled pics easy,GO,barrel01S0,square,True,space,0.368278
+29,Block C,scrambled pics easy,GO,soccerballS0,square,True,space,0.389991
+29,Block C,scrambled pics easy,GO,bikewheelS0,square,True,space,0.473850
+29,Block C,scrambled pics easy,GO,strollerS0,square,True,space,0.408904
+29,Block C,scrambled pics easy,GO,mug05S0,square,True,space,0.352222
+29,Block C,scrambled pics easy,GO,shield02S0,square,True,space,0.455040
+29,Block C,scrambled pics easy,GO,contactlensS0,square,True,space,0.359939
+29,Block C,scrambled pics easy,GO,jellyfishS0,square,True,space,0.371365
+29,Block C,scrambled pics easy,GO,sapsuckerS0,square,True,space,0.365043
+29,Block A,words hard,GO,scooter,square,True,space,0.644550
+29,Block A,words hard,NO GO,bird,square,True,no response,nan
+29,Block A,words hard,GO,anchor,hard,True,space,0.473858
+29,Block A,words hard,GO,accordion,hard,True,space,0.558323
+29,Block A,words hard,GO,calendar,square,True,space,0.412839
+29,Block A,words hard,GO,record,square,True,space,0.442981
+29,Block A,words hard,GO,fridge,hard,True,space,0.529755
+29,Block A,words hard,NO GO,armadillo,hard,True,no response,nan
+29,Block A,words hard,GO,bus,square,True,space,0.440871
+29,Block A,words hard,GO,cork,hard,True,space,0.491641
+29,Block A,words hard,GO,stairs,hard,True,space,0.524710
+29,Block A,words hard,NO GO,panda,square,True,no response,nan
+29,Block A,words hard,GO,bridge,square,True,space,0.287006
+29,Block A,words hard,GO,bell,hard,True,space,0.339650
+29,Block A,words hard,GO,tap,square,True,space,0.321225
+29,Block A,words hard,GO,shoe,hard,True,space,0.440760
+29,Block A,words hard,GO,bullet,hard,True,space,0.390717
+29,Block A,words hard,GO,balcony,square,True,space,0.324727
+29,Block A,words hard,NO GO,squid,square,False,space,0.353986
+29,Block A,words hard,GO,bow,hard,True,space,0.476103
+29,Block A,words hard,GO,fireplace,hard,True,space,0.357859
+29,Block A,words hard,GO,rocket,square,True,space,0.342550
+29,Block A,words hard,GO,shorts,hard,True,space,0.389335
+29,Block A,words hard,NO GO,fish,hard,True,no response,nan
+29,Block A,words hard,GO,armour,square,True,space,0.285584
+29,Block A,words hard,GO,lamp,square,True,space,0.307929
+29,Block A,words hard,NO GO,camel,square,False,space,0.339152
+29,Block A,words hard,GO,vacuum,square,True,space,0.354038
+29,Block A,words hard,NO GO,dalmatian,hard,True,no response,nan
+29,Block A,words hard,GO,stove,hard,True,space,0.326246
+29,Block A,words hard,GO,treadmill,square,True,space,0.394501
+29,Block A,words hard,GO,motorcycle,hard,True,space,0.389073
+29,Block A,words hard,GO,pitchfork,hard,True,space,0.439497
+29,Block A,words hard,GO,recorder,square,True,space,0.445288
+29,Block A,words hard,NO GO,lion,square,True,no response,nan
+29,Block A,words hard,GO,safe,square,True,space,0.406797
+29,Block A,words hard,GO,schoolbus,hard,True,space,0.411450
+29,Block A,words hard,GO,keys,hard,True,space,0.459129
+29,Block A,words hard,GO,ipad,square,True,space,0.595520
+29,Block A,words hard,GO,buoy,square,True,space,0.440799
+29,Block A,words hard,GO,marble,hard,True,space,0.407399
+29,Block A,words hard,NO GO,vulture,square,True,no response,nan
+29,Block A,words hard,GO,headlight,hard,True,space,0.337595
+29,Block A,words hard,GO,sword,square,True,space,0.326985
+29,Block A,words hard,GO,car,square,True,space,0.526810
+29,Block A,words hard,GO,truck,square,True,space,0.389409
+29,Block A,words hard,GO,parachute,hard,True,space,0.507869
+29,Block A,words hard,GO,helmet,square,True,space,0.407384
+29,Block A,words hard,GO,drum,hard,True,space,0.406631
+29,Block A,words hard,GO,frisbee,hard,True,space,0.440174
+29,Block A,words hard,GO,bike,hard,True,space,0.391331
+29,Block A,words hard,GO,blender,square,True,space,0.407543
+29,Block A,words easy,GO,tombstone,easy,True,space,0.490973
+29,Block A,words easy,GO,bookshelf,easy,True,space,0.583308
+29,Block A,words easy,GO,lock,square,True,space,0.406945
+29,Block A,words easy,NO GO,ant,square,True,no response,nan
+29,Block A,words easy,GO,aeroplane,easy,True,space,0.323197
+29,Block A,words easy,GO,guitar,easy,True,space,0.373767
+29,Block A,words easy,GO,axe,square,True,space,0.391650
+29,Block A,words easy,GO,basketball,easy,True,space,0.473776
+29,Block A,words easy,NO GO,bee,easy,True,no response,nan
+29,Block A,words easy,GO,grill,square,True,space,0.305597
+29,Block A,words easy,GO,lighthouse,easy,True,space,0.335604
+29,Block A,words easy,NO GO,pig,easy,True,no response,nan
+29,Block A,words easy,GO,xylophone,square,True,space,0.322578
+29,Block A,words easy,NO GO,owl,easy,False,space,0.321488
+29,Block A,words easy,GO,camera,easy,True,space,0.320828
+29,Block A,words easy,GO,lamppost,easy,True,space,0.355844
+29,Block A,words easy,GO,trailer,easy,True,space,0.374998
+29,Block A,words easy,GO,apron,easy,True,space,0.405965
+29,Block A,words easy,NO GO,butterfly,easy,False,space,0.407199
+29,Block A,words easy,GO,belt,square,True,space,0.323093
+29,Block A,words easy,GO,banjo,square,False,no response,nan
+29,Block A,words easy,NO GO,sheep,easy,False,space,0.389433
+29,Block A,words easy,GO,cello,easy,True,space,0.375159
+29,Block A,words easy,GO,statue,square,True,space,0.457438
+29,Block A,words easy,GO,computer,easy,True,space,0.641151
+29,Block A,words easy,GO,tricycle,square,True,space,0.428628
+29,Block A,words easy,GO,buggy,easy,True,space,0.475037
+29,Block A,words easy,NO GO,crab,square,True,no response,nan
+29,Block A,words easy,GO,piano,square,True,space,0.441737
+29,Block A,words easy,GO,ferry,square,True,space,0.390673
+29,Block A,words easy,GO,fountain,square,True,space,0.406274
+29,Block A,words easy,GO,shelf,easy,True,space,0.428798
+29,Block A,words easy,GO,flask,easy,True,space,0.489491
+29,Block A,words easy,GO,arrow,easy,True,space,0.492706
+29,Block A,words easy,NO GO,tarantula,easy,False,space,0.456886
+29,Block A,words easy,GO,bin,square,True,space,0.526696
+29,Block A,words easy,GO,dresser,easy,True,space,0.425833
+29,Block A,words easy,GO,scissors,easy,True,space,0.524677
+29,Block A,words easy,NO GO,parrot,easy,True,no response,nan
+29,Block A,words easy,GO,file,easy,True,space,0.442196
+29,Block A,words easy,GO,fence,square,True,space,0.507807
+29,Block A,words easy,GO,boots,easy,True,space,0.558972
+29,Block A,words easy,NO GO,raccoon,easy,True,no response,nan
+29,Block A,words easy,GO,microphone,easy,True,space,0.463555
+29,Block A,words easy,GO,beret,square,True,space,0.375250
+29,Block A,words easy,GO,gong,easy,True,space,0.392536
+29,Block A,words easy,GO,locker,easy,True,space,0.424118
+29,Block A,words easy,GO,tie,square,True,space,0.406652
+29,Block A,words easy,GO,hat,easy,True,space,0.440404
+29,Block A,words easy,GO,kite,easy,True,space,0.374248
+29,Block A,words easy,GO,paddle,square,True,space,0.645535
+29,Block A,words easy,GO,turnstile,square,True,space,0.558545
+29,Block A,words easy,GO,pillar,easy,True,space,0.458542
+29,Block A,words easy,GO,cables,square,True,space,0.765261
+29,Block A,words easy,GO,trumpet,easy,True,space,0.457034
+29,Block A,words easy,GO,saxophone,square,True,space,0.541991
+29,Block A,words easy,GO,ladder,easy,True,space,0.444298
+29,Block A,words easy,GO,bolt,square,True,space,0.446077
+29,Block A,words easy,NO GO,cat,easy,True,no response,nan
+29,Block A,words easy,GO,handcuffs,easy,True,space,0.407333
+29,Block A,words easy,GO,shield,easy,True,space,0.389227
+29,Block A,words easy,NO GO,crocodile,square,True,no response,nan
+29,Block A,words easy,GO,tuba,square,True,space,0.288794
+29,Block A,words easy,GO,snowman,easy,True,space,0.354676
+29,Block A,words easy,GO,sink,easy,True,space,0.406879
+29,Block A,words easy,NO GO,rhinoceros,square,False,space,0.357253
+29,Block A,words easy,GO,harmonica,square,True,space,0.270860
+29,Block A,words easy,NO GO,kangaroo,easy,True,no response,nan
+29,Block A,words easy,GO,mace,square,True,space,0.270502
+29,Block A,words easy,GO,knife,square,True,space,0.306581
+29,Block A,words easy,GO,bulldozer,square,True,space,0.447032
+29,Block A,words easy,GO,hose,square,True,space,0.321381
+29,Block A,words easy,GO,barbecue,easy,True,space,0.406035
+29,Block A,words easy,GO,stool,square,True,space,0.390467
+29,Block A,words easy,NO GO,platypus,easy,True,no response,nan
+29,Block A,words easy,GO,wrench,square,True,space,0.389109
+29,Block A,words easy,GO,toolbox,easy,True,space,0.412314
+29,Block A,words easy,GO,funnel,easy,True,space,0.303591
+29,Block A,words easy,GO,crown,square,True,space,0.321045
+29,Block A,words easy,NO GO,snake,easy,True,no response,nan
+29,Block A,words easy,GO,barn,easy,True,space,0.407898
+29,Block A,words easy,NO GO,shark,square,False,space,0.305293
+29,Block A,words easy,GO,jeans,square,True,space,0.320489
+29,Block A,words easy,GO,machete,square,True,space,0.424611
+29,Block A,words easy,GO,tank,easy,True,space,0.494291
+29,Block A,words easy,GO,mirror,easy,True,space,0.474115
+29,Block A,words easy,GO,sock,easy,True,space,0.406873
+29,Block A,words easy,GO,tile,easy,True,space,0.476005
+29,Block A,words easy,NO GO,squirrel,square,True,no response,nan
+29,Block A,words easy,GO,microwave,square,True,space,0.336483
+29,Block A,words easy,GO,chainsaw,square,True,space,0.390191
+29,Block A,words easy,GO,football,easy,True,space,0.424476
+29,Block A,words easy,GO,helicopter,square,True,space,0.397048
+29,Block A,words easy,NO GO,rooster,easy,False,space,0.371450
+29,Block A,words easy,GO,rug,square,True,space,0.474755
+29,Block A,words easy,GO,clock,square,True,space,0.373503
+29,Block A,words easy,GO,skis,easy,True,space,0.374255
+29,Block A,words easy,NO GO,moose,square,True,no response,nan
+29,Block A,words easy,GO,swing,square,True,space,0.303900
+29,Block A,words easy,GO,zipper,easy,True,space,0.405539
+29,Block A,words easy,GO,couch,square,True,space,0.491071
+29,Block A,words easy,GO,bench,easy,True,space,0.472627
+29,Block A,words easy,GO,rifle,easy,True,space,0.440158
+29,Block A,words easy,GO,cannon,easy,True,space,0.541742
+29,Block A,words easy,GO,box,easy,True,space,0.458325
+29,Block A,words hard,GO,mask,square,True,space,0.509918
+29,Block A,words hard,GO,boat,square,True,space,0.545862
+29,Block A,words hard,GO,scanner,hard,True,space,0.473675
+29,Block A,words hard,GO,podium,hard,True,space,0.558794
+29,Block A,words hard,GO,wheel,hard,True,space,0.423550
+29,Block A,words hard,NO GO,porcupine,square,True,no response,nan
+29,Block A,words hard,GO,spear,square,True,space,0.337829
+29,Block A,words hard,GO,doors,hard,True,space,0.355573
+29,Block A,words hard,NO GO,chicken,square,False,space,0.303856
+29,Block A,words hard,GO,barrel,hard,True,space,0.424647
+29,Block A,words hard,GO,bowl,square,True,space,0.409557
+29,Block A,words hard,GO,tower,square,True,space,0.459920
+29,Block A,words hard,GO,jeep,hard,True,space,0.490510
+29,Block A,words hard,NO GO,beaver,square,True,no response,nan
+29,Block A,words hard,GO,shovel,hard,True,space,0.354678
+29,Block A,words hard,GO,tambourine,hard,True,space,0.371196
+29,Block A,words hard,GO,trampoline,hard,True,space,0.524321
+29,Block A,words hard,NO GO,hippo,square,True,no response,nan
+29,Block A,words hard,GO,gate,hard,True,space,0.376922
+29,Block A,words hard,GO,rake,square,True,space,0.390830
+29,Block A,words hard,GO,hammer,hard,True,space,0.441568
+29,Block A,words hard,GO,volleyball,square,True,space,0.524159
+29,Block A,words hard,GO,escalator,square,True,space,0.490835
+29,Block A,words hard,GO,mattress,hard,True,space,0.441394
+29,Block A,words hard,NO GO,cow,hard,True,no response,nan
+29,Block A,words hard,GO,pot,hard,True,space,0.321443
+29,Block A,words hard,GO,keyhole,hard,True,space,0.389245
+29,Block A,words hard,NO GO,horse,square,True,no response,nan
+29,Block A,words hard,GO,mug,hard,True,space,0.304456
+29,Block A,words hard,GO,trombone,hard,True,space,0.354543
+29,Block A,words hard,GO,telescope,square,True,space,0.338762
+29,Block A,words hard,GO,fan,hard,True,space,0.407740
+29,Block A,words hard,GO,gazebo,square,True,space,0.694594
+29,Block A,words hard,NO GO,pigeon,square,False,space,0.344093
+29,Block A,words hard,GO,lantern,square,True,space,0.441426
+29,Block A,words hard,NO GO,elephant,square,True,no response,nan
+29,Block A,words hard,GO,wheelchair,hard,True,space,0.335989
+29,Block A,words hard,GO,trophy,hard,True,space,0.322396
+29,Block A,words hard,GO,umbrella,hard,True,space,0.371416
+29,Block A,words hard,GO,chandelier,square,True,space,0.439809
+29,Block A,words hard,GO,gun,square,True,space,0.355218
+29,Block A,words hard,NO GO,ladybird,hard,True,no response,nan
+29,Block A,words hard,GO,tyre,square,True,space,0.358874
+29,Block A,words hard,GO,spoon,square,True,space,0.371347
+29,Block A,words hard,GO,snowboard,square,True,space,0.412830
+29,Block A,words hard,GO,map,hard,True,space,0.423585
+29,Block A,words hard,GO,table,square,True,space,0.423390
+29,Block A,words hard,GO,windmill,hard,True,space,0.337525
+29,Block A,words hard,GO,skateboard,square,True,space,0.378914
+29,Block A,words hard,GO,tractor,square,True,space,0.354485
+29,Block A,words hard,GO,compass,hard,True,space,0.343840
+29,Block A,words hard,GO,chimney,hard,True,space,0.510238
+29,Block C,scrambled words easy,GO,Slide34S0,square,True,space,0.499138
+29,Block C,scrambled words easy,GO,Slide104S0,square,True,space,0.320559
+29,Block C,scrambled words easy,GO,Slide114S0,square,True,space,0.343014
+29,Block C,scrambled words easy,GO,Slide44S0,square,True,space,0.413031
+29,Block C,scrambled words easy,NO GO,Slide201S0,easy,True,no response,nan
+29,Block C,scrambled words easy,GO,Slide98S0,square,True,space,0.286897
+29,Block C,scrambled words easy,GO,Slide46S0,square,True,space,0.288521
+29,Block C,scrambled words easy,GO,Slide112S0,square,True,space,0.275100
+29,Block C,scrambled words easy,NO GO,Slide147S0,easy,True,no response,nan
+29,Block C,scrambled words easy,GO,Slide50S0,square,True,space,0.330199
+29,Block C,scrambled words easy,NO GO,Slide52S0,easy,True,no response,nan
+29,Block C,scrambled words easy,GO,Slide108S0,square,True,space,0.285351
+29,Block C,scrambled words easy,GO,Slide82S0,square,True,space,0.373405
+29,Block C,scrambled words easy,GO,Slide211S0,square,True,space,0.360993
+29,Block C,scrambled words easy,GO,Slide2S0,square,True,space,0.412920
+29,Block C,scrambled words easy,GO,Slide140S0,square,True,space,0.413378
+29,Block C,scrambled words easy,GO,Slide12S0,square,True,space,0.330428
+29,Block C,scrambled words easy,NO GO,Slide194S0,easy,True,no response,nan
+29,Block C,scrambled words easy,GO,Slide171S0,square,True,space,0.295688
+29,Block C,scrambled words easy,GO,Slide124S0,square,True,space,0.324370
+29,Block C,scrambled words easy,NO GO,Slide90S0,easy,True,no response,nan
+29,Block C,scrambled words easy,GO,Slide61S0,square,True,space,0.311643
+29,Block C,scrambled words easy,GO,Slide125S0,square,True,space,0.377531
+29,Block C,scrambled words easy,GO,Slide207S0,square,True,space,0.312297
+29,Block C,scrambled words easy,GO,Slide195S0,square,True,space,0.322562
+29,Block C,scrambled words easy,GO,Slide48S0,square,True,space,0.324777
+29,Block C,scrambled words easy,NO GO,Slide72S0,easy,True,no response,nan
+29,Block C,scrambled words easy,GO,Slide146S0,square,True,space,0.345473
+29,Block C,scrambled words easy,GO,Slide171S0,square,True,space,0.342119
+29,Block C,scrambled words easy,NO GO,Slide7S0,easy,True,no response,nan
+29,Block C,scrambled words easy,GO,Slide132S0,square,True,space,0.305787
+29,Block C,scrambled words easy,GO,Slide126S0,square,True,space,0.458953
+29,Block C,scrambled words easy,GO,Slide36S0,square,True,space,0.403758
+29,Block C,scrambled words easy,GO,Slide163S0,square,True,space,0.422772
+29,Block C,scrambled words easy,GO,Slide209S0,square,True,space,0.328163
+29,Block C,scrambled words easy,NO GO,Slide163S0,easy,True,no response,nan
+29,Block C,scrambled words easy,GO,Slide175S0,square,True,space,0.271116
+29,Block C,scrambled words easy,GO,Slide109S0,square,True,space,0.326758
+29,Block C,scrambled words easy,GO,Slide172S0,square,True,space,0.346243
+29,Block C,scrambled words easy,GO,Slide81S0,square,True,space,0.320703
+29,Block C,scrambled words easy,GO,Slide66S0,square,True,space,0.355478
+29,Block C,scrambled words easy,GO,Slide107S0,square,True,space,0.399379
+29,Block C,scrambled words easy,NO GO,Slide200S0,easy,True,no response,nan
+29,Block C,scrambled words easy,GO,Slide26S0,square,True,space,0.309764
+29,Block C,scrambled words easy,GO,Slide51S0,square,True,space,0.341433
+29,Block C,scrambled words easy,GO,Slide35S0,square,True,space,0.307214
+29,Block C,scrambled words easy,GO,Slide209S0,square,True,space,0.357719
+29,Block C,scrambled words easy,GO,Slide162S0,square,True,space,0.340405
+29,Block C,scrambled words easy,GO,Slide183S0,square,True,space,0.412148
+29,Block C,scrambled words easy,GO,Slide142S0,square,True,space,0.326521
+29,Block C,scrambled words easy,GO,Slide2S0,square,True,space,0.387778
+29,Block C,scrambled words easy,GO,Slide10S0,square,True,space,0.413764
+29,Block C,scrambled pics hard,GO,antS0,square,True,space,0.370576
+29,Block C,scrambled pics hard,NO GO,bicycleS0,hard,True,no response,nan
+29,Block C,scrambled pics hard,GO,cookingpotS0,square,True,space,0.324979
+29,Block C,scrambled pics hard,GO,treadmillS0,square,True,space,0.578275
+29,Block C,scrambled pics hard,GO,mirror02S0,square,True,space,0.400249
+29,Block C,scrambled pics hard,GO,lighthouseS0,square,True,space,0.390712
+29,Block C,scrambled pics hard,NO GO,antS0,hard,False,space,0.415188
+29,Block C,scrambled pics hard,GO,shield02S0,square,True,space,0.304793
+29,Block C,scrambled pics hard,GO,mirror02S0,square,True,space,0.439345
+29,Block C,scrambled pics hard,GO,harmonicaS0,square,True,space,0.451024
+29,Block C,scrambled pics hard,NO GO,frisbeeS0,hard,True,no response,nan
+29,Block C,scrambled pics hard,GO,maraca01S0,square,True,space,0.339901
+29,Block C,scrambled pics hard,NO GO,paninigrillS0,hard,True,no response,nan
+29,Block C,scrambled pics hard,GO,doubledoorsS0,square,True,space,0.321986
+29,Block C,scrambled pics hard,GO,honeybeeS0,square,True,space,0.418690
+29,Block C,scrambled pics hard,NO GO,handcuffsS0,hard,True,no response,nan
+29,Block C,scrambled pics hard,GO,tankS0,square,True,space,0.381362
+29,Block C,scrambled pics hard,GO,porcupineS0,square,True,space,0.390416
+29,Block C,scrambled pics hard,GO,beaverS0,square,True,space,0.492744
+29,Block C,scrambled pics hard,GO,tireS0,square,True,space,0.390041
+29,Block C,scrambled pics hard,GO,pillarS0,square,True,space,0.315477
+29,Block C,scrambled pics hard,GO,fanheaterS0,square,True,space,0.358330
+29,Block C,scrambled pics hard,NO GO,windmillS0,hard,True,no response,nan
+29,Block C,scrambled pics hard,GO,pandaS0,square,True,space,0.441016
+29,Block C,scrambled pics hard,GO,skihelmet01S0,square,True,space,0.387680
+29,Block C,scrambled pics hard,GO,ipodS0,square,True,space,0.390435
+29,Block C,scrambled pics hard,GO,tombstoneS0,square,True,space,0.335259
+29,Block C,scrambled pics hard,GO,towerS0,square,True,space,0.360679
+29,Block C,scrambled pics hard,NO GO,knife03S0,hard,False,space,0.375973
+29,Block C,scrambled pics hard,GO,tombstoneS0,square,True,space,0.370244
+29,Block C,scrambled pics hard,GO,beaverS0,square,True,space,0.475760
+29,Block C,scrambled pics hard,GO,tiger02S0,square,True,space,0.488209
+29,Block C,scrambled pics hard,NO GO,ipad02S0,hard,True,no response,nan
+29,Block C,scrambled pics hard,GO,dolphin01S0,square,True,space,0.316774
+29,Block C,scrambled pics hard,GO,vacuumcleaner01S0,square,True,space,0.524166
+29,Block C,scrambled pics hard,GO,harmonicaS0,square,True,space,0.494853
+29,Block C,scrambled pics hard,GO,pitchforkS0,square,True,space,0.558302
+29,Block C,scrambled pics hard,NO GO,entrancegateS0,hard,True,no response,nan
+29,Block C,scrambled pics hard,GO,skateboardS0,square,True,space,0.361554
+29,Block C,scrambled pics hard,GO,bikewheelS0,square,True,space,0.410497
+29,Block C,scrambled pics hard,NO GO,strollerS0,hard,False,space,0.528307
+29,Block C,scrambled pics hard,GO,floorlampS0,square,True,space,0.435059
+29,Block C,scrambled pics hard,GO,tromboneS0,square,True,space,0.348049
+29,Block C,scrambled pics hard,GO,motorcycleS0,square,True,space,0.347564
+29,Block C,scrambled pics hard,GO,wheelchairS0,square,True,space,0.454065
+29,Block C,scrambled pics hard,NO GO,gongS0,hard,True,no response,nan
+29,Block C,scrambled pics hard,GO,acousticguitar02S0,square,True,space,0.352815
+29,Block C,scrambled pics hard,GO,athleticsockS0,square,True,space,0.312280
+29,Block C,scrambled pics hard,GO,ipad02S0,square,True,space,0.305914
+29,Block C,scrambled pics hard,GO,carS0,square,True,space,0.529661
+29,Block C,scrambled pics hard,GO,dromedaryS0,square,True,space,0.403944
+29,Block C,scrambled pics hard,GO,skateboardS0,square,True,space,0.448725
+29,Block B,image easy,GO,doormat,easy,True,space,1.075637
+29,Block B,image easy,NO GO,scorpion,square,True,no response,nan
+29,Block B,image easy,GO,tricycle,square,True,space,0.402134
+29,Block B,image easy,GO,tire,square,True,space,0.419339
+29,Block B,image easy,GO,motorboat02,square,True,space,0.701299
+29,Block B,image easy,NO GO,beaver,square,True,no response,nan
+29,Block B,image easy,GO,trumpet,easy,True,space,0.467938
+29,Block B,image easy,GO,suitofarmor,easy,True,space,0.602127
+29,Block B,image easy,GO,stool01,easy,True,space,0.448987
+29,Block B,image easy,GO,woodenfence,easy,True,space,0.533895
+29,Block B,image easy,GO,key07,square,True,space,0.512068
+29,Block B,image easy,NO GO,panda,easy,True,no response,nan
+29,Block B,image easy,GO,entrancegate,square,True,space,0.399238
+29,Block B,image easy,GO,file,square,True,space,0.392153
+29,Block B,image easy,GO,crosscountryboot,square,True,space,0.416783
+29,Block B,image easy,GO,stubbywrench01a,square,True,space,0.512421
+29,Block B,image easy,GO,bolt01a,square,True,space,0.425088
+29,Block B,image easy,GO,tombstone,easy,True,space,0.525468
+29,Block B,image easy,NO GO,dalmatian,easy,True,no response,nan
+29,Block B,image easy,GO,snowboard,square,True,space,0.318908
+29,Block B,image easy,GO,record,easy,True,space,0.426174
+29,Block B,image easy,NO GO,squid,easy,False,space,0.427809
+29,Block B,image easy,GO,parkfountain,easy,True,space,0.354774
+29,Block B,image easy,GO,floorlamp,easy,True,space,0.417164
+29,Block B,image easy,GO,contactlens,easy,True,space,0.441771
+29,Block B,image easy,GO,bulldozer,easy,True,space,0.392972
+29,Block B,image easy,NO GO,tiger02,square,True,no response,nan
+29,Block B,image easy,GO,trophy01,square,True,space,0.493754
+29,Block B,image easy,GO,tuba,easy,True,space,0.478638
+29,Block B,image easy,GO,kalashnikov,easy,True,space,0.423683
+29,Block B,image easy,GO,acousticguitar02,square,True,space,0.390227
+29,Block B,image easy,GO,masquerademask01,square,True,space,0.393271
+29,Block B,image easy,GO,lectern01,easy,True,space,0.481936
+29,Block B,image easy,NO GO,jellyfish,square,False,space,0.512076
+29,Block B,image easy,GO,volleyball,square,True,space,0.495194
+29,Block B,image easy,GO,frisbee,square,True,space,0.537894
+29,Block B,image easy,GO,securitycamera,square,True,space,0.595632
+29,Block B,image easy,NO GO,horse,square,True,no response,nan
+29,Block B,image easy,GO,lighthouse,easy,True,space,0.371611
+29,Block B,image easy,GO,fridge,square,True,space,0.555727
+29,Block B,image easy,NO GO,hippopotamus,easy,True,no response,nan
+29,Block B,image easy,GO,locker,easy,True,space,0.369724
+29,Block B,image easy,GO,safe,easy,True,space,0.378164
+29,Block B,image easy,GO,battleaxe,easy,True,space,0.713586
+29,Block B,image easy,GO,faucet,easy,True,space,0.623293
+29,Block B,image easy,GO,garbagecan02,easy,True,space,0.443640
+29,Block B,image easy,NO GO,hen,square,True,no response,nan
+29,Block B,image easy,GO,sledgehammer,easy,True,space,0.410272
+29,Block B,image easy,GO,revolver,square,True,space,0.480792
+29,Block B,image easy,GO,dresser02,square,True,space,0.455018
+29,Block B,image easy,GO,worldmap,square,True,space,0.443076
+29,Block B,image hard,GO,bridge,square,True,space,0.439588
+29,Block B,image hard,GO,bikewheel,square,True,space,0.522033
+29,Block B,image hard,GO,beret01,square,True,space,0.469313
+29,Block B,image hard,GO,cello,square,True,space,0.551352
+29,Block B,image hard,NO GO,porcupine,hard,True,no response,nan
+29,Block B,image hard,GO,jumpercables,square,True,space,0.438169
+29,Block B,image hard,NO GO,tortoise01,hard,True,no response,nan
+29,Block B,image hard,GO,wheelchair,square,True,space,0.408346
+29,Block B,image hard,GO,balcony02,square,True,space,0.382963
+29,Block B,image hard,NO GO,rooster,hard,True,no response,nan
+29,Block B,image hard,GO,cashregister01,square,True,space,0.562835
+29,Block B,image hard,NO GO,holdfast,square,True,no response,nan
+29,Block B,image hard,GO,hose,hard,True,space,0.356733
+29,Block B,image hard,GO,knife03,hard,True,space,0.460093
+29,Block B,image hard,GO,canoepaddle02,hard,True,space,0.588078
+29,Block B,image hard,GO,mirror02,hard,True,space,0.429314
+29,Block B,image hard,GO,mattress,hard,True,space,0.531038
+29,Block B,image hard,NO GO,parrot01,hard,True,no response,nan
+29,Block B,image hard,GO,gazebo,square,True,space,0.442893
+29,Block B,image hard,GO,cork02,square,True,space,0.384101
+29,Block B,image hard,GO,boxtrailer,hard,True,space,0.461795
+29,Block B,image hard,NO GO,sheep,hard,False,space,0.407043
+29,Block B,image hard,GO,rainboot,hard,True,space,0.338415
+29,Block B,image hard,GO,bicycle,square,True,space,0.424245
+29,Block B,image hard,GO,snowman,hard,True,space,0.609192
+29,Block B,image hard,GO,skateboard,hard,True,space,0.457005
+29,Block B,image hard,GO,apron,square,True,space,0.402265
+29,Block B,image hard,GO,escalator,square,True,space,0.409710
+29,Block B,image hard,NO GO,jackrabbit,hard,False,space,0.443200
+29,Block B,image hard,GO,pitchfork,hard,True,space,0.457701
+29,Block B,image hard,GO,accordion01,square,True,space,0.485397
+29,Block B,image hard,GO,table01,square,True,space,0.395662
+29,Block B,image hard,GO,sledgehammer,square,True,space,0.374325
+29,Block B,image hard,NO GO,slug,square,True,no response,nan
+29,Block B,image hard,GO,oven,square,True,space,0.398781
+29,Block B,image hard,GO,dresser02,square,True,space,0.427030
+29,Block B,image hard,NO GO,alligator,square,True,no response,nan
+29,Block B,image hard,GO,scanner,square,True,space,0.422424
+29,Block B,image hard,GO,hedgeshears,square,True,space,0.406371
+29,Block B,image hard,GO,gong,square,True,space,0.404577
+29,Block B,image hard,NO GO,platypus,hard,True,no response,nan
+29,Block B,image hard,GO,motorcycle,hard,True,space,0.662776
+29,Block B,image hard,GO,cannon,hard,True,space,0.415922
+29,Block B,image hard,GO,chainsaw,square,True,space,0.465706
+29,Block B,image hard,GO,bench01,hard,True,space,0.472467
+29,Block B,image hard,GO,congadrum,hard,True,space,0.421368
+29,Block B,image hard,GO,headlight,hard,True,space,0.666322
+29,Block B,image hard,NO GO,sapsucker,square,False,space,0.448040
+29,Block B,image hard,GO,revolver,hard,True,space,0.438364
+29,Block B,image hard,GO,cowbell,square,True,space,0.669676
+29,Block B,image hard,GO,tambourine03,hard,True,space,0.521684
+Done at 1462.350436
