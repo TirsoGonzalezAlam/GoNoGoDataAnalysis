@@ -26,7 +26,7 @@ parent = os.listdir(dname)
 
 #Prepare csv file for output
 
-f = open(r'C:\Users\trga500\Desktop\Data\Collection\Week 6\GoNoGo\Results\WeeklyAnalysis.csv', 'wb+')
+f = open(r'C:\Users\sergio\Documents\GitHub\GoNoGoDataAnalysis\Results\WeeklyAnalysis.csv', 'wb+')
 filewriter = csv.writer(f, delimiter=',')
 f.write('Part_ID, Word_RT_Mean, Word_SD, Word_Acc, Word_Eff, Pic_RT_Mean, \
 Pic_SD, Pic_Acc, Pic_Eff, Easy_RT_Mean, Easy_SD, Easy_Acc, Easy_Eff, \
@@ -59,6 +59,24 @@ aw_mean = []
 ap_mean = []
 ae_mean = []
 ah_mean = []
+
+z_scored_rt_w = {}
+z_scored_rt_p = {}
+z_scored_rt_e = {}
+z_scored_rt_h = {}
+z_scored_rt_aw = {}
+z_scored_rt_ap = {}
+z_scored_rt_ae = {}
+z_scored_rt_ah = {}
+z_scored_rt_ew = {}
+z_scored_rt_ep = {}
+z_scored_rt_ee = {}
+z_scored_rt_eh = {}
+
+w_mean_exc = []
+p_mean_exc = []
+e_mean_exc = []
+h_mean_exc = []
 
 g_word_counter = 0
 g_pic_counter = 0
@@ -300,9 +318,15 @@ for i in range(0, len(z_score_rt_w)):
     z_score_rt_e[i], z_score_rt_h[i], z_score_rt_aw[i], z_score_rt_ap[i], \
     z_score_rt_ae[i], z_score_rt_ah[i], z_score_rt_ew[i], z_score_rt_ep[i], \
     z_score_rt_ee[i], z_score_rt_eh[i]))
+    z_scored_rt_w[w_mean[i]] = z_score_rt_w[i]
 
+for i in z_scored_rt_w:
+    if z_scored_rt_w[i] < 2.0:
+        w_mean_exc.append(i)
+        
+print len(w_mean_exc), len(w_mean)
 #Once we're done, we can calculate the group statistics
-#Word
+ #Word
 g_x = stats.itemfreq(g_word_acc)
 g_corr_perc_w = (float(g_x[1][1])/g_word_counter)*100
 g_mean_rt_w = np.mean(g_word_rt)
@@ -542,27 +566,18 @@ f6 = pyplot.title('Efficiency score group means per condition')
 f6 = pyplot.savefig(r'Results\EFF.png')
 f6 = pyplot.show()
 
-#pyplot.subplot(221)
-#pyplot.ylabel('Frequency')
-#pyplot.xlabel('Reaction time')
-#pyplot.axis([0.3, 0.8, 0, 6])
-#pyplot.hist(w_mean, histtype='bar', label='Word RT mean', color='blue')
-#pyplot.subplot(222)
-#pyplot.ylabel('Frequency')
-#pyplot.xlabel('Reaction time')
-#pyplot.axis([0.3, 0.8, 0, 6])
-#pyplot.hist(p_mean, histtype='bar', label='Picture RT mean', color='red')
-#pyplot.subplot(223)
-#pyplot.ylabel('Frequency')
-#pyplot.xlabel('Reaction time')
-#pyplot.axis([0.3, 0.8, 0, 6])
-#pyplot.hist(e_mean, histtype='bar', label='Easy RT mean', color='yellow')
-#pyplot.subplot(224)
-#pyplot.ylabel('Frequency')
-#pyplot.xlabel('Reaction time')
-#pyplot.axis([0.3, 0.8, 0, 6])
-#pyplot.hist(h_mean, histtype='bar', label='Hard RT mean', color='green')
-#pyplot.show()
+
+
+#==============================================================================
+# Exclude data points by z scores and do a second analysis
+#==============================================================================
+
+#Build a Dictionary containing the actual value and its z score
+
+
+
+
+
 
 #Print inferential statistics
 print ''
